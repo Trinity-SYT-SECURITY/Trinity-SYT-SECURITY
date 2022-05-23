@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏢 I’m currently working on CHT security SOC(中華資安國際)
-- 💻 I’m currently learning ML、Penetration testing、Cyber-Security of CAN Bus Intra-Vehicle Networking
-- 🐇 Expertise: Stress testing、Vulnerability Assessment、Source Code Analysis、 Mobile Penetration Testing、vulnerability analysis & CVE recurrent、network architecture planning
+- 🏢 I’m currently working on **CHT security SOC(中華資安國際)**
+- 💻 I’m currently learning **ML、Penetration testing、Cyber-Security of CAN Bus Intra-Vehicle Networking**
+- 🐇 Expertise: **Stress testing、Vulnerability Assessment、Source Code Analysis、 Mobile Penetration Testing、vulnerability analysis & CVE recurrent、network architecture planning**
 
 ![meow GitHub stats](https://github-readme-stats.vercel.app/api?username=meow&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&hide=GLSL&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nomeow&theme=hacker&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=22DD9F)](https://git.io/streak-stats)
 
