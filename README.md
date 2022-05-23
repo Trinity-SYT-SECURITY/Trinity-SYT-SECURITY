@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi  ![image](https://user-images.githubusercontent.com/96654161/169802253-3534a8ac-c135-452d-90f5-8b14f6d65c73.png) there
+
+
 
 <!--
 **Trinity-SYT-SECURITY/Trinity-SYT-SECURITY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
+- 🏢 I’m currently working on CHT security SOC(中華資安國際)
+- 💻 I’m currently learning ML、Penetration testing、Cyber-Security of CAN Bus Intra-Vehicle Networking
+
 ![meow GitHub stats](https://github-readme-stats.vercel.app/api?username=meow&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&hide=GLSL&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nomeow&theme=hacker&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=22DD9F)](https://git.io/streak-stats)
 
 
@@ -27,6 +32,6 @@ Here are some ideas to get you started:
 
 **Machine Learning** : ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : **sytyactfhaha@gmail.com**
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : **sytyactfhaha@gmail.com** :octocat:
 
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hackthebox.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/html.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/javascript.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/linux.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/mysql.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/nginx.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/nodejs.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/vuejs.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/leet-code.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/css.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/docker.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/git.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/github.svg" width="50"/>
