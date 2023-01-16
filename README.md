@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 
 - 🏢 I’m currently working on **CHT security SOC(中華資安國際)**
 - 💻 I’m currently learning **ML、Penetration testing、Cyber-Security of CAN Bus Intra-Vehicle Networking**
-- 🐇 Expertise: **Stress testing、Vulnerability Assessment、Source Code Analysis、 Mobile Penetration Testing、vulnerability analysis & CVE recurrent、network architecture planning**
+- 🐇 Expertise: **Stress testing、Vulnerability Assessment、 Mobile Penetration Testing、vulnerability analysis & CVE recurrent、network architecture planning**
 
-![meow GitHub stats](https://github-readme-stats.vercel.app/api?username=meow&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&hide=GLSL&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nomeow&theme=hacker&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=22DD9F)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trinity-SYT-SECURITY)](https://git.io/streak-stats) 
+![Trinity-SYT-SECURITY GitHub stats](https://github-readme-stats.vercel.app/api?username=Trinity-SYT-SECURITY&show_icons=true&theme=transparent)
+<img align="Center" alt="Coding" width="600" src="https://www.icy2003.com/usr/uploads/2020/06/3721666653.gif">
+
 
 **Programming Language** : ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -32,3 +35,6 @@ Here are some ideas to get you started:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : **sytyactfhaha@gmail.com** :octocat:
 
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hackthebox.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/html.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/javascript.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/linux.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/mysql.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/nginx.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/nodejs.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/vuejs.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/leet-code.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/css.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/docker.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/git.svg" width="50"/><img src="https://github.com/programmer-zhang/programmer-zhang/blob/main/images/github.svg" width="50"/>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Trinity-SYT-SECURITY)](https://github.com/ryo-ma/github-profile-trophy)
