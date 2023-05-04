@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 -->
 
 - 🏢 I’m currently working on **CHT security SOC(中華資安國際)**
-- 💻 I’m currently learning **ML、Penetration testing、Cyber-Security of CAN Bus Intra-Vehicle Networking**
-- 🐇 Expertise: **Stress testing、Vulnerability Assessment、 Mobile Penetration Testing、vulnerability analysis & CVE recurrent、network architecture planning**
+- 💻 I’m currently learning **ML、Penetration testing、V2X information security**
+- 🐇 Expertise: **Vulnerability Assessment、 Mobile Penetration Testing、vulnerability analysis & CVE recurrent、network architecture planning**
 - <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google" width="40" height="20" align="middle" style="vertical-align"> Google Developer Group Taipei **Co-Organization**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trinity-SYT-SECURITY)](https://git.io/streak-stats) 
 ![Trinity-SYT-SECURITY GitHub stats](https://github-readme-stats.vercel.app/api?username=Trinity-SYT-SECURITY&show_icons=true&theme=transparent)
 <img align="Center" alt="Coding" width="600" src="https://www.icy2003.com/usr/uploads/2020/06/3721666653.gif">
 
