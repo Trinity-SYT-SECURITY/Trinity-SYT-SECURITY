@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🏢 I’m currently working on **CHT security SOC(中華資安國際)**
 - 💻 I’m currently learning **ML、Penetration testing、V2X information security**
-- 🐇 Expertise: **Vulnerability Assessment、 Mobile Penetration Testing、vulnerability analysis & CVE recurrent、network architecture planning**
+- 🐇 Expertise: **Vulnerability Assessment、 Mobile security、vulnerability analysis & CVE recurrent、network architecture planning**
 - <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google" width="40" height="20" align="middle" style="vertical-align"> Google Developer Group Taichung **Organizer**
 
 ![Trinity-SYT-SECURITY GitHub stats](https://github-readme-stats.vercel.app/api?username=Trinity-SYT-SECURITY&show_icons=true&theme=transparent)
