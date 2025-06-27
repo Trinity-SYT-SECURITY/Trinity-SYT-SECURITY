@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trinity-syt-security" alt="trinity-syt-security" /></a> </p>
 
-- 🔭 I’m currently working on **Array Networks**
-
 - 🌱 Expertise **Penetration Testing · AI/ML Application Develop · Vulnerability Assessment · Develop Security Tools · Build hacking lab · Python (Programming Language) · Vulnerability Scanning · Network Security Implementation · presentation at different conference · Security Research**
 
 - 💻 I’m currently learning **AI/ML、Penetration testing、V2X security**
