@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinity-syt-security&label=Profile%20views&color=0e75b6&style=flat" alt="trinity-syt-security" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trinity-syt-security" alt="trinity-syt-security" /></a> </p>
 
 - 🌱 Expertise **Penetration Testing · AI/ML Application Develop · Vulnerability Assessment · Develop Security Tools · Build hacking lab · Python (Programming Language) · Vulnerability Scanning · Network Security Implementation · presentation at different conference · Security Research**
 
@@ -12,7 +11,7 @@
 
 - 📝 Blog [https://no-flag.com](https://no-flag.com)
 
-- 📫 How to reach me **sytyactfhaha@gmail.com**
+- 📫 How to reach me **sytyactfhaha@gmail.com** , **https://www.linkedin.com/in/yi-ting-shen-712434211/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
